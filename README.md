@@ -11,5 +11,5 @@ This week i bumped up on a situation where user want to setup CICD pipeline for 
 # Steps
 - [Step by Step Video](https://youtu.be/apv9wn8TBdg)
 
-## Reference
+# Reference
  [Power BI Actions](https://marketplace.visualstudio.com/items?itemName=maikvandergaag.maikvandergaag-power-bi-actions) and thanks to Maik for a lovely PowerBI extension.
