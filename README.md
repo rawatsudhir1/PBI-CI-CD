@@ -1,5 +1,5 @@
 # PBI - CI/CD using service principal
-This week i bumped up on a situation where user want to setup CICD pipeline for PowerBI reports using service principal. I did try the scenario and sharing my expereince. 
+Recently, I bumped up on a situation where a user want to setup CI/CD pipeline for PowerBI reports using service principal. I did try the scenario and sharing my expereince here. 
 
 # Prerequisite
 - [Azure subscription](https://azure.microsoft.com/en-us/free/)
